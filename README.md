@@ -1,2 +1,6 @@
-# Yugen-Website
-The first draft of the initial workings for a website for my progressive metal band, Yugen. 
+<head>
+<title>We are the architects of a greater cause.</title>
+</head>
+
+
+
